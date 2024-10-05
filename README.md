@@ -26,10 +26,6 @@ A sentiment analysis project using machine learning algorithms (SVM, Random Fore
 ### 3. [Dashboard Project](https://github.com/kevinsutrisna/Dashboard-Covid19)
 The project involves creating a COVID-19 dashboard using Looker that displays data from various countries, with daily updates facilitated by a Google Sheets script feeding data into BigQuery.
 
-## 📈 GitHub Stats
-
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinSutrisna&show_icons=true&theme=radical)
-
 ## 🌐 Connect with Me
 
 - [LinkedIn](www.linkedin.com/in/kevin-sutrisna-8985bb252)
