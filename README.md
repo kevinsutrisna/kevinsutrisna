@@ -29,7 +29,7 @@ The project involves creating a COVID-19 dashboard using Looker that displays da
 ## 🌐 Connect with Me
 
 - [LinkedIn](www.linkedin.com/in/kevin-sutrisna-8985bb252)
-- [Portfolio]([https://your-portfolio-link.com](https://kevinsutrisna.netlify.app/))
+- [Portfolio](https://kevinsutrisna.netlify.app/)
 
 ---
 
