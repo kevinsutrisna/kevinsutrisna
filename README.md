@@ -1,8 +1,8 @@
-# Hi there, I'm Kevin Sutrisna 👋
+# Hi there, I'm Kevin Sutrisna
 
-Welcome to my GitHub profile! I'm currently a 5th semester Computer Science student at **Bina Nusantara University**, with a passion for **Data Analytics** and **Artificial Intelligence**. I enjoy working on projects that involve **machine learning**, **software development**, and **social impact initiatives**.
+I'm currently a 5th semester Computer Science student at **Bina Nusantara University**, with a passion for **Data Analytics** and **Artificial Intelligence**. I enjoy working on projects that involve **machine learning**, **software development**, and **social impact initiatives**.
 
-## 🚀 About Me
+## About Me
 
 - 🌱 I’m currently learning: Machine Learning, Data Analytics, and Web Development.
 - 👨‍💻 I'm interested in projects related to **AI**, **Data Science** and **Data Analysis**
