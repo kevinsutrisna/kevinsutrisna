@@ -1,36 +1,65 @@
-# Hi there, I'm Kevin Sutrisna
+I am a **Computer Science graduate** from **Bina Nusantara University** with a strong focus on **Data Engineering, Cloud Engineering, and DevOps**. I am passionate about building scalable data pipelines, managing cloud infrastructure, and automating deployment processes to deliver reliable and efficient systems.
 
-I'm currently a 5th semester Computer Science student at **Bina Nusantara University**, with a passion for **Data Analytics** and **Artificial Intelligence**. I enjoy working on projects that involve **machine learning**, **software development**, and **social impact initiatives**.
-
-## About Me
-
-- 🌱 I’m currently learning: Machine Learning, Data Analytics, and Web Development.
-- 👨‍💻 I'm interested in projects related to **AI**, **Data Science** and **Data Analysis**
-
-## 🛠️ Skills & Technologies
-
-- **Languages**: Java, Python, SQL
-- **Web Development**: HTML, CSS, JavaScript
-- **Machine Learning**: Scikit-learn, TensorFlow
-- **Database**: MySQL
-- **Tools**: Git, Docker, VSCode
-
-## 🌟 Featured Projects
-
-### 1. [ShelfWise](https://github.com/kevinsutrisna/ShelfWise)
-A CLI book management system for adding and managing books, complete with hash code generation for unique identifiers.
-
-### 2. [Sentiment Analysis](https://github.com/kevinsutrisna/Sentiment-analysis)
-A sentiment analysis project using machine learning algorithms (SVM, Random Forest, Naïve Bayes) to classify Twitter data into positive, negative, or neutral categories.
-
-### 3. [Dashboard Project](https://github.com/kevinsutrisna/Dashboard-Covid19)
-The project involves creating a COVID-19 dashboard using Looker that displays data from various countries, with daily updates facilitated by a Google Sheets script feeding data into BigQuery.
-
-## 🌐 Connect with Me
-
-- [LinkedIn](www.linkedin.com/in/kevin-sutrisna-8985bb252)
-- [Portfolio](https://kevinsutrisna.netlify.app/)
+I enjoy working on real-world projects involving data processing, cloud platforms, and system optimization, and I am eager to continuously learn and contribute to impactful technology solutions.
 
 ---
 
-Thank you for visiting my profile! Feel free to check out my repositories or reach out for collaborations.
+## About Me
+
+- Currently improving skills in **Data Engineering, Cloud Computing, and DevOps**
+- Interested in **data pipelines, cloud infrastructure, CI/CD, and automation**
+
+---
+
+## Skills & Technologies
+
+### Languages
+- Python  
+- SQL  
+- Bash  
+- Java  
+
+### Data Engineering
+- Apache Spark  
+- Apache Airflow  
+- ETL & Data Pipelines  
+
+### Cloud & DevOps
+- AWS / GCP  
+- Docker  
+- CI/CD (GitHub Actions)  
+- Linux  
+
+### Databases
+- MySQL  
+- PostgreSQL  
+- BigQuery  
+
+### Tools
+- Git & GitHub  
+- VS Code  
+
+---
+
+## Featured Projects
+
+### 🔹 [ShelfWise](https://github.com/kevinsutrisna/ShelfWise)
+A CLI-based application focused on structured data handling, efficient data storage, and unique identifier generation using clean and maintainable system logic.
+
+### 🔹 [Sentiment Analysis Pipeline](https://github.com/kevinsutrisna/Sentiment-analysis)
+A data processing and machine learning project that analyzes Twitter sentiment, emphasizing data preprocessing, pipeline structure, and model evaluation.
+
+### 🔹 [COVID-19 Data Dashboard](https://github.com/kevinsutrisna/Dashboard-Covid19)
+A data analytics project that builds a COVID-19 dashboard using Looker, with automated data ingestion from Google Sheets into BigQuery.
+
+---
+
+## Connect with Me
+
+- 💼 LinkedIn: [Kevin Sutrisna](https://www.linkedin.com/in/kevin-sutrisna-8985bb252)
+- 🌍 Portfolio: [kevinsutrisna.netlify.app](https://kevinsutrisna.netlify.app)
+
+---
+
+Thank you for visiting my profile!  
+Feel free to explore my repositories or reach out for collaboration opportunities 🚀
